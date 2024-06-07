@@ -1,12 +1,1 @@
-<div><section id="description">
-<p>You will be <a href="https://gitpod.io/?autostart=true#https://github.com/freeCodeCamp/boilerplate-mean-variance-standard-deviation-calculator/" target="_blank" rel="noopener noreferrer nofollow">working on this project with our Gitpod starter code</a>.</p>
-<p>We are still developing the interactive instructional part of the Python curriculum. For now, here are some videos on the freeCodeCamp.org YouTube channel that will teach you everything you need to know to complete this project:</p>
-<ul>
-<li>
-<p><a href="https://www.freecodecamp.org/news/python-for-everybody/" target="_blank" rel="noopener noreferrer nofollow">Python for Everybody Video Course</a> (14 hours)</p>
-</li>
-<li>
-<p><a href="https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/" target="_blank" rel="noopener noreferrer nofollow">How to Analyze Data with Python Pandas</a> (10 hours)</p>
-</li>
-</ul>
-</section></div>
+<div><a class=" relative inline-block mt-[0.5px] border-solid border-3 active:before:w-full active:before:h-full active:before:absolute active:before:inset-0 active:before:border-3 active:before:border-transparent active:before:bg-gray-900 active:before:opacity-20 aria-disabled:cursor-not-allowed aria-disabled:opacity-50 focus:outline-none focus-visible:ring focus-visible:ring-focus-outline-color text-center cursor-pointer no-underline block w-full border-foreground-secondary bg-background-quaternary text-foreground-secondary hover:bg-foreground-primary hover:text-background-primary hover:border-foreground-secondary dark:hover:bg-background-primary dark:hover:text-foreground-primary px-3 py-1.5 text-md" target="_blank" href="https://forum.freecodecamp.org/t/462366">Get a Hint</a><div class="spacer" style="padding: 2.5px 0px;"></div><button class=" relative inline-block mt-[0.5px] border-solid border-3 active:before:w-full active:before:h-full active:before:absolute active:before:inset-0 active:before:border-3 active:before:border-transparent active:before:bg-gray-900 active:before:opacity-20 aria-disabled:cursor-not-allowed aria-disabled:opacity-50 focus:outline-none focus-visible:ring focus-visible:ring-focus-outline-color text-center cursor-pointer no-underline block w-full border-foreground-secondary bg-background-quaternary text-foreground-secondary hover:bg-foreground-primary hover:text-background-primary hover:border-foreground-secondary dark:hover:bg-background-primary dark:hover:text-foreground-primary px-3 py-1.5 text-md" type="button">Ask for Help</button></div>
