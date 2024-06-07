@@ -18,13 +18,13 @@ def calculor(list):
     #Calculating Standard deviation
     standard_deviation = [array.std(axis=0,dtype=float).tolist(),array.std(axis=1,dtype=float).tolist(),array.std(dtype=float).tolist()]
 
-    #Find the max value
+    #Finding the max value
     max = [array.max(axis=0).tolist(),array.max(axis=1).tolist(),array.max().tolist()]
 
-    #Find the min value
+    #Finding the min value
     min = [array.min(axis=0).tolist(),array.min(axis=1).tolist(),array.min().tolist()]
 
-    #Find the sum
+    #Finding the sum
     sum = [array.sum(axis=0).tolist(),array.sum(axis=1).tolist(),array.sum().tolist()]
 
     #Gettting all values in the dictionary 
