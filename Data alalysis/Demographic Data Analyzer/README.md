@@ -26,7 +26,7 @@ You must use Pandas to answer the following questions:
 percentage?
 * Identify the most popular occupation for those who earn >50K in India.
 
-#Development 
+### Development 
 Write your code in `demographic_data_analyzer.py`
 Use the starter code in the file demographic_data_analyzer.py. Update the code so all variables set to None are set to the appropriate calculation or code. Round all decimals to the nearest tenth.
 
